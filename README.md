@@ -1,2 +1,2 @@
-# ProbabilityInTheNormalDistribution
-Simple command-line probability calculator for all cases in the normal distribution
+# Normal Distribution Probability
+Simple command-line probability calcurolator for all cases in the normal distribution
